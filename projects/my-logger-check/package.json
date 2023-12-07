@@ -1,6 +1,6 @@
 {
-  "name": "@kkajnabi/my-logger-check",
-  "version": "0.0.1",
+  "name": "my-logger-check",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^17.0.0",
     "@angular/core": "^17.0.0"

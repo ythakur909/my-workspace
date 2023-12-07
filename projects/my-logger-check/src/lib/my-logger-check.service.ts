@@ -7,6 +7,6 @@ export class MyLoggerCheckService {
   constructor() {}
 
   logger(message: string) {
-    console.log(message);
+    console.log('logger', message);
   }
 }
